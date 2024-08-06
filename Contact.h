@@ -1,3 +1,6 @@
+
+#ifndef CONTACT_H
+#define CONTACT_H
 #include <iostream>
 #include <fstream>
 #include <string>
